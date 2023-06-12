@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @tienminhvy
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working on my own personal blog project
 ## 📫 How to reach me:
 - Email: tienminhvydev@gmail.com
-- Twitter: @tienminhvy
 
 # 💡 My skills
 
