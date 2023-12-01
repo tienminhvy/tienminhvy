@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @tienminhvy
-- 🌱 I’m currently working on my own personal blog project
+- 🌱 I’m currently diving in C#
 ## 📫 How to reach me:
-- Email: tienminhvydev@gmail.com
+- Email: tienminhvydev+gh@gmail.com
 
 # 💡 My skills
 
