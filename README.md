@@ -3,8 +3,18 @@
 ## 📫 How to reach me:
 
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:me@tienminhvy.com)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tienminhvy/)
+
+# 📄 My résume
+
+[![Vietnamese CV](https://img.shields.io/badge/CV%20in%20Vietnamese-f5f5f5?style=for-the-badge&logo=read.cv&logoColor=black)](https://github.com/tienminhvy/tienminhvy/blob/main/resume_vi.pdf)
+[![English CV](https://img.shields.io/badge/CV%20in%20English-000000?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/tienminhvy/tienminhvy/blob/main/resume_vi.pdf)
+
+# 👀 Overview
+
+![Stats](https://github-readme-stats.vercel.app/api?username=tienminhvy&theme=blue-green)
+
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienminhvy&theme=blue-green)
 
 # 💡 My skills
 
