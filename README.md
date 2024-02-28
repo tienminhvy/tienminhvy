@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @tienminhvy
-- 🌱 I’m currently diving in C#
+- 🌱 I’m currently diving in Java
 ## 📫 How to reach me:
-- Email: me@tienminhvy.com
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tienminhvy/)
+
+[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:me@tienminhvy.com)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tienminhvy/)
 
 # 💡 My skills
 
