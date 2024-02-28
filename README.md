@@ -48,6 +48,7 @@
 ## Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 <!---
 tienminhvy/tienminhvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
