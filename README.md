@@ -7,7 +7,7 @@
 
 # 📄 My résume
 
-[![Check it out](https://img.shields.io/badge/CV%20in%20English-000000?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/tienminhvy/tienminhvy/blob/main/resume.pdf)
+[![Check it out](https://img.shields.io/badge/Check%20it%20out-000000?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/tienminhvy/tienminhvy/blob/main/resume.pdf)
 
 # 👀 Overview
 
