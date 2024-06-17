@@ -7,8 +7,7 @@
 
 # 📄 My résume
 
-[![Vietnamese CV](https://img.shields.io/badge/CV%20in%20Vietnamese-f5f5f5?style=for-the-badge&logo=read.cv&logoColor=black)](https://github.com/tienminhvy/tienminhvy/blob/main/resume_vi.pdf)
-[![English CV](https://img.shields.io/badge/CV%20in%20English-000000?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/tienminhvy/tienminhvy/blob/main/resume_vi.pdf)
+[![Check it out](https://img.shields.io/badge/CV%20in%20English-000000?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/tienminhvy/tienminhvy/blob/main/resume.pdf)
 
 # 👀 Overview
 
