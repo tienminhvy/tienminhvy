@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @tienminhvy
-- 🌱 I’m currently diving in Java, Spring Framework.
+- 🌱 I’m currently diving in Java, Spring Framework, Javascript (NodeJS)
 ## 📫 How to reach me:
 
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:me@tienminhvy.com)
