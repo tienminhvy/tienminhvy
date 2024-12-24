@@ -1,3 +1,12 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/tienminhvy"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 # 👋 Hi, I’m @tienminhvy
 - 🌱 I’m currently diving in Java, Spring Framework, Javascript (NodeJS)
 ## 📫 How to reach me:
