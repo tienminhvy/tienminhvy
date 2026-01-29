@@ -8,21 +8,25 @@
   
 
 # 👋 Hi, I’m @tienminhvy
-- 🌱 I’m currently diving in Java, Spring Framework, Javascript (NodeJS)
+- 🌱 I’m currently diving in Java, Spring Framework, JavaScript (NodeJS, Angular)
+- currently employed in @evolus
+
 ## 📫 How to reach me:
 
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:me@tienminhvy.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tienminhvy/)
 
 # 📄 My résume
-
 [![Check it out](https://img.shields.io/badge/Check%20it%20out-000000?style=for-the-badge&logo=read.cv&logoColor=white)](https://github.com/tienminhvy/tienminhvy/blob/main/resume.pdf)
 
 # 👀 Overview
 
+![Contributions Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tienminhvy&theme=github)
+
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienminhvy&theme=github)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=tienminhvy&theme=blue-green)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienminhvy&theme=blue-green)
 
 # 💡 My skills
 
