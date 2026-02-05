@@ -25,9 +25,6 @@
 
 ![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienminhvy&theme=github)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tienminhvy&theme=blue-green)
-
-
 # 💡 My skills
 
 ## Languages
